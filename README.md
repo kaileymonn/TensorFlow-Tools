@@ -1,1 +1,1 @@
-# Various independent tools for processing/modifying tensorflow graphs 
+# Various Independent Tools for Processing/Modifying Tensorflow Graphs 
